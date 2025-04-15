@@ -1,0 +1,40 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE folders
+.vscode/
+.idea/
+
+# Build artifacts
+dist/
+build/
+
+# Optional npm cache
+.npm/
+
+# Coverage directory (if using test coverage)
+coverage/
+
+# SQLite database files (if any)
+*.sqlite
+*.sqlite3
+
+# Local database dumps
+*.sql
+
+# dotenv backups
+.env.*.backup
